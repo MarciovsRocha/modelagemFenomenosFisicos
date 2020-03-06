@@ -45,8 +45,7 @@ def mostrarNumeroMaior(a,b: int):
         print(f"São iguais {a} = {b}")
     elif a <  b:
         print(f"O primeiro numero eh maior {a}")
-    else:
-        print(f"O segundo numero eh maior {b}")
+    print(f"O segundo numero eh maior {b}")
 
 def comparaTresNumeros(a,b,c: int):
     if a < b and a < c:

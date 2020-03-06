@@ -4,7 +4,7 @@
 
 ---
 
-## Letras Gregas$\colon$
+## Letras Gregas $\colon$
 
 - $\alpha \rightarrow$ \aplha
 - $\beta \rightarrow$  \beta
@@ -102,4 +102,3 @@
 - $\geq \rightarrow$ \geq
 - $\succ \rightarrow$ \succ
 - $\succeq \rightarrow$ \succeq
-- $$ 
