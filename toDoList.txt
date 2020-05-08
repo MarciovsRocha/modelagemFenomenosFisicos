@@ -1,0 +1,45 @@
+1. Escreva a sequência dos termos que possuem a forma $(\frac{-1}{2})^n$, para $n$ variando de 0 a 7.
+
+1. Escreva, em notação matemática, sequências que representam:
+
+  - Os números pares;
+  
+  - Os números ímpares;
+  
+  - Os 7 primeiros múltiplos de 5;
+  - Os cubos dos $n$ primeiros números naturais.
+
+1. Escreva, em notação de somatório, as séries compostas pelos seguintes termos:
+
+  - Os 5 primeiros números pares;
+  
+  - Os 20 primeiros números ímpares;
+  
+  - Os $n$ primeiros múltiplos de 5;
+  - Os cubos dos $n$ primeiros números naturais.
+  
+1. Usando ***list comprehension***, escreva uma função em *Python* para cada um dos itens a seguir:
+
+  - Gere a sequência dos $n$ primeiros números pares.
+
+  - Calcule o $n$-ésimo número ímpar.
+
+  - Calcule a soma dos $n$ primeiros números pares.
+
+  - Dado $n$,  multiplique
+  $$1 \times 2 \times 3 \times \cdots \times n$$
+
+  - Dado $n$, calcule o *fatorial* de $n$.
+  
+  - Dado $n$, gere a sequência
+  $$1, {1 \over 1!}, {1 \over 2!}, {1 \over 3!}, {1 \over 4!}, \cdots  
+  , {1 \over n!}$$
+
+  - Calcule o número $e$ (*número de Euler*, a base dos *logaritmos neperianos*), dada a quantidade $n$ de
+  parcelas
+  $$ e = 1 + {1 \over 1!} + {1 \over 2!} + {1 \over 3!} + {1 \over 4!} + \cdots  
+  + {1 \over n!}$$
+  
+1. Faça uma pesquisa na *internet* sobre o cálculo do valor de $\pi$ como somatório de uma sequência.
+  - Por meio da notação de somatório, escreva a fórmula de cálculo do valor de $\pi$.
+  - Escreva um programa que calcule o valor de $\pi$ para um número dado de termos da sequência.
