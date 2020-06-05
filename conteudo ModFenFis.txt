@@ -1,7 +1,0 @@
-// conteúdo da prova
-While,
-For,
-List Comprehention
-Map,
-Filter,
-Reduce,
